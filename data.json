@@ -6,15 +6,18 @@
     "nextmeeting":"12-3-25",
     "upcomingevents":
     [
-         {
-            "time":"1-16-26",
-            "title":"Winter Carnival",
-            "description":"The annual Winter Carnival will take place in the Cafeteria. More details below."
-        },
         {
             "time":"5-16-26 9:00 AM",
             "title":"5K Race/Mini Dash",
             "description":"Our biggest event! See below for details"
+        }
+    ]
+    "archive":
+    [
+         {
+            "time":"1-16-26",
+            "title":"Winter Carnival",
+            "description":"The annual Winter Carnival will take place in the Cafeteria. More details below."
         }
     ]
 }
